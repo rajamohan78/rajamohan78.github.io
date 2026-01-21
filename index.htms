@@ -1,60 +1,18 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-  <meta charset="UTF-8" />
-  <title>Professional Portfolio</title>
-  <link rel="stylesheet" href="style.css" />
+  <title>My Career Website</title>
 </head>
 <body>
 
-<header>
-  <h1>Rajamohan Ramanathan</h1>
-  <p>Senior Oracle / IT Professional</p>
-</header>
+<h1>Your Name</h1>
+<p>Senior IT / Oracle Professional</p>
 
-<section>
-  <h2>Professional Summary</h2>
-  <p>
-    Senior IT professional with extensive experience in Oracle technologies,
-    database administration, performance tuning, and enterprise systems support.
-  </p>
-</section>
-
-<section>
-  <h2>Core Skills</h2>
-  <ul>
-    <li>Oracle Database Administration</li>
-    <li>Performance Tuning & Optimization</li>
-    <li>SQL / PL-SQL 19c</li>
-    <li>Linux / Unix Systems</li>
-    <li>Backup, Recovery & DR</li>
-  </ul>
-</section>
-
-<section>
-  <h2>Professional Experience</h2>
-  <h3>Senior Oracle DBA</h3>
-  <p>
-    Managed mission-critical Oracle databases, ensured high availability,
-    handled upgrades, migrations, and production support.
-  </p>
-</section>
-
-<section>
-  <h2>Education</h2>
-  <p>Bachelor’s Degree / Relevant Qualification</p>
-</section>
-
-<section>
-  <h2>Contact</h2>
-  <p>Email: r_rajamohan2000@yahoo.com</p>
-  <p>Mobile: 9444267652</p>
-  <p>LinkedIn: https://www.linkedin.com/in/rajamohanramanathan/</p>
-</section>
-
-<footer>
-  <p>© 2026 Rajamohan</p>
-</footer>
+<p>
+  <a href="Resume_2026.docx" download>
+    Download My Resume (Word)
+  </a>
+</p>
 
 </body>
 </html>
